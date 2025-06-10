@@ -1,16 +1,24 @@
-# Ola sou o Pedro Leal
+Sobre mim
+Sou um entusiasta da tecnologia e estudante na área de TI, apaixonado por programação e infraestrutura de redes. Tenho experiência com diversas linguagens e ambientes, sempre buscando aprender e aprimorar minhas habilidades.
 
-## SKILLS
+Skills
+JavaScript
 
-# Java script
-## HTML, CSS
-###### Python, C, C++ e tecnico em informatica 
+HTML, CSS
 
-## Trabalhos
+Python, C, C++
 
-Tive uma proposta de realizar um cabeamento estruturado dentro de um banco que necessitava de um trabalho terceirizado,
-realizei instalação de switches, roteadores e racks, alem de um patch painel vinculado com a rede local.
+Auxílio em informática
 
-Realizei diversas atividades de programação em diversas linguagens, tendo base em back-end
+Infraestrutura de redes
 
+Experiência
+📌 Proposta de instalação de cabeamento em um banco
+Recebi uma proposta para realizar um cabeamento estruturado dentro de um banco que necessitava de um trabalho terceirizado. No projeto, executei:
 
+Instalação de switches, roteadores e racks
+
+Configuração de um patch panel vinculado à rede local
+
+💻 Programação
+Participei de diversas atividades de programação em múltiplas linguagens, com especial foco na programação, desenvolvendo soluções eficientes e estruturadas para diferentes necessidades.
